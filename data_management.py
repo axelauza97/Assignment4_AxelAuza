@@ -1,7 +1,9 @@
 import sys
-import math
 
 
+# GitHub is a platform for version control and collaboration, allowing multiple people to work on projects simultaneously.
+# Branching in GitHub lets you create separate lines of development within a repository, enabling you to work on features or fixes independently
+# before merging them back into the main codebase.
 def is_numeric(value):
     try:
         float(value)
